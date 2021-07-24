@@ -1,3 +1,1 @@
 root@testar0ssa
-(^.^)
-(.^.)
